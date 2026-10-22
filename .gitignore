@@ -1,6 +1,9 @@
 node_modules/
 dist/
 target/
+
+# wrangler local dev/deploy artifacts
+.wrangler/
 .env
 .env.*
 !.env.example
